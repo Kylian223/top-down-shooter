@@ -1,0 +1,4 @@
+reviews:
+  auto: true
+  auto_for_branches:
+    - "main"
